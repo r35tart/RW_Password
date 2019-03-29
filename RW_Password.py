@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 #Author:R3start
+#Blog:http://R3start.net
 #2019年3月27日
 #此脚本用来提取密码字典中符合条件的密码
 
